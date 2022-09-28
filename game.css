@@ -1,0 +1,9 @@
+#output
+{
+    background: white;
+    border-radius: 10px;
+    border-top: 10 px solid red;
+    padding: 10 px;
+    float: none;
+    text-align: left;
+}
